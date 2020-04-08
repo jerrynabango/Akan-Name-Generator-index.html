@@ -1,0 +1,39 @@
+.fakeimg {
+  height: 120px;
+  background: url(../home/jerry/image.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.jumbotron {
+  background-color: blue;
+  color: White;
+}
+
+h1 {
+  font-size: 50px;
+}
+#akan {
+  font-size: 50px;
+  font-weight: bolder;
+  color: green;
+}
+.par {
+  color: black;
+  font-size: 35px;
+}
+.h2 {
+  color: black;
+
+}
+ul {
+  font-weight: bold;
+}
+span {
+  color: yellowgreen;
+  font-size: 36x;
+}
+.alert {
+  color: red;
+  font-size: 40px;
+}
