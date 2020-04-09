@@ -28,5 +28,5 @@ The webpage can be viewed though the following browsers.
 ## Support and contact details:
 You can contact the founder anytime incase of any enquiries through email:jerrynabango9@gmail.com
 ## License:
-lincense Copyright (c)2020.All rights observed.
+lincense Copyright (c)2020.All rights reserved.
     P.o Box: 999666,Nairobi,Kenya.
