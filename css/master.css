@@ -1,17 +1,16 @@
 .fakeimg {
-  height: 120px;
+  height: 100px;
   background: url(../home/jerry/image.jpg);
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 .jumbotron {
   background-color: blue;
-  color: White;
+  color: lightskyblue;
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 40px;
 }
 #akan {
   font-size: 50px;
@@ -20,14 +19,14 @@ h1 {
 }
 .par {
   color: black;
-  font-size: 35px;
+  font-size: 40px;
 }
 .h2 {
   color: black;
 
 }
 ul {
-  font-weight: bold;
+  font-weight: bolder;
 }
 span {
   color: yellowgreen;
