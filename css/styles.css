@@ -11,8 +11,7 @@ h1 {
   font-weight: bolder;
   color: green;
 }
-img1,
-img2 {
+img1 {
   border: hidden;
   border-radius: 75%;
 }
