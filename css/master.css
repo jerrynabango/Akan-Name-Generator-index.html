@@ -1,6 +1,6 @@
 .fakeimg {
   height: 100px;
-  background: url(/css/home/jerry/image.jpg);
+  background: url("/css/home/jerry/image.jpg");
   background-size: cover;
   background-position: center;
 }
