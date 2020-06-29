@@ -17,6 +17,11 @@ h1 {
   font-weight: bolder;
   color: green;
 }
+img1 {
+  border: hidden;
+  border-radius: 60%;
+}
+
 .par {
   color: black;
   font-size: 40px;
