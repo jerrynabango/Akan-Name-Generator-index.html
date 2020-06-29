@@ -1,6 +1,6 @@
 .fakeimg {
   height: 100px;
-  background: url("/css/home/jerry/image.jpg");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG4qLnjNjOf951dZW_Gwz3YM0sSacMEpPo_w&usqp=CAU");
   background-size: cover;
   background-position: center;
 }
