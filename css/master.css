@@ -1,11 +1,12 @@
 .fakeimg {
   height: 100px;
+  background-repeat: no
   background-size: cover;
   background-position: center;
 }
 .jumbotron {
   background-color: blue;
-  color: blue;
+  color: black;
 }
 
 h1 {
