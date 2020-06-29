@@ -14,7 +14,7 @@ The webpage can be viewed though the following browsers.
 * Firefox
 * Opera Mini
 ## Live link:
-https://jerrynabango.github.io/Akan-Name-Generator-index.html/
+https://jerrynabango.github.io/Akan-Name-Generator./
 ## Behaviour Driven Development:
 * 1.Web App Displays Form For Entering Date and Gender
 *INPUT: "User's Birthdate Entered"
