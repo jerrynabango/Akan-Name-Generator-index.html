@@ -31,5 +31,13 @@ The webpage can be viewed though the following browsers.
 ## Support and contact details:
  Incase of any enquiries contact me through email:jerrynabango9@gmail.com
 ## License:
+  TERMS AND CONDITIONS:
+  1.Permission is hereby granted to any user obtaining a copy
+of this software "Akan Name Generator" and associated documentation files to deal
+in the Software without any restriction, including without limitations the rights
+to use,copy,modify,publish,distribute,sublicense,and/or sell 
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so freely without any restrictions.THANK YOU FOR USING THE AKAN.
+ 
    license Copyright (c)2020.All rights reserved.
     P.o Box: 999666,Nairobi,Kenya.
