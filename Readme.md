@@ -13,7 +13,7 @@ The webpage can be viewed though the following browsers.
 * Chrome
 * Firefox
 * Opera Mini
-## Live link:
+## Live link to site:
 https://jerrynabango.github.io/Akan-Name-Generator./
 ## Behaviour Driven Development:
 * 1.Web App Displays Form For Entering Date and Gender
@@ -32,7 +32,7 @@ https://jerrynabango.github.io/Akan-Name-Generator./
 ## Support and contact details:
  Incase of any enquiries contact me through email:jerrynabango9@gmail.com
 ## License:
-  TERMS AND CONDITIONS:
+  ## TERMS AND CONDITIONS:
   1.Permission is hereby granted to any user obtaining a copy
 of this software "Akan Name Generator" and associated documentation files to deal
 in the Software without any restriction, including without limitations the rights
