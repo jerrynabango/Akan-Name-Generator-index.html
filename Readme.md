@@ -1,4 +1,7 @@
-# Akan-name-generator:
+# Akan-name-generator
+## Developer.
+Jerry Nabango
+## Description.
 Application that generates the User's Akan name depending on their Birthday,by selecting the day they were born and refering it with the Akan name's from the list.
 ## Date created:
 8TH MARCH 2020
@@ -28,5 +31,5 @@ The webpage can be viewed though the following browsers.
 ## Support and contact details:
 You can contact the founder anytime incase of any enquiries through email:jerrynabango9@gmail.com
 ## License:
-lincense Copyright (c)2020.All rights reserved.
+   lincense Copyright (c)2020.All rights reserved.
     P.o Box: 999666,Nairobi,Kenya.
