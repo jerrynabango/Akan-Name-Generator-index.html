@@ -2,6 +2,16 @@
   background-color: blue;
   color: black;
 }
+body {
+  margin: 0;
+    padding: 0;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv4stEolcmh0xMbseQLJVDXwvCu__3RNnNoA&usqp=CAU");
+    background-color: blue;
+    background-position: center;
+    background-size: cover;
+    
+}
+
 
 h1 {
   font-size: 40px;
